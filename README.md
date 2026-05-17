@@ -1,31 +1,114 @@
-![Web developer](https://media.licdn.com/dms/image/D5603AQF0JYx4L-5j8Q/profile-displayphoto-shrink_400_400/0/1670475133121?e=1699488000&v=beta&t=X-p1nQO7uz3Amhz28gsWQjBWbjuC1SKV2TFL8dpkeIQ)
-### Hi there 👋, I'am Sujon
-#### Backend Developer
+# Hi there 👋, I'm Md. Sujon Mia
 
+### 🚀 Full Stack Web Developer
 
-Hey this is me md. Sujon mia I am a web developer .I have good knowledge of javascript, React.js, MongoDB, and familiar with Node.js and Express .I am a passionate person and I learn everything with curiosity. I can quickly adapt myself to group work. Always willing and ambitious to acquire and learn new technologies. Especially interested in Front end Web Development.
+Passionate Full Stack Developer focused on building scalable and modern web applications.
+I enjoy learning new technologies, solving real-world problems, and collaborating with teams to create impactful products.
 
-Skills: HTML / CSS / JAVASCRIPT / REACT / C / C++ / PYTHON / DJANGO / TAILWIND CSS / BOOTSTRAP / NODE JS
+---
 
-- 🔭 I’m currently working on RISOSI 
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on gitub 
+## 👨‍💻 About Me
 
+* 🔭 Currently working on **JVAI**
+* 🌱 Currently learning **Advanced Python & Backend Architecture**
+* 👯 Looking to collaborate on **Open Source Projects**
+* 💡 Interested in **Frontend & Backend Development**
+* ⚡ Quick learner and adaptable to new technologies
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abrahon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-sujon-mia-2172a524b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ABRAHON)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aabraahn//)  
+---
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+# 🛠️ Tech Stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Abrahon)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Frontend
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Abrahon)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Abrahon&show_icons=true&count_private=true)  
+## ⚙️ Backend
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Abrahon)  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Abrahon)  
+## 🗄️ Database
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Abrahon)  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Abrahon)  
+## 🐳 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrahon&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahon&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abrahon&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sujon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abrahon\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abrahon\&theme=algolia\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Abrahon" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-sujon-mia-2172a524b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.facebook.com/ABRAHON" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" />
+</a>
+
+<a href="https://www.instagram.com/aabraahn/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" />
+</a>
+</p>
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Abrahon\&color=blueviolet)
+
+---
+
+# 💬 Developer Quote
+
+> "Code. Learn. Build. Repeat."
+
+---

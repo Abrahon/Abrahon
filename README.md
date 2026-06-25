@@ -86,7 +86,7 @@ I enjoy learning new technologies, solving real-world problems, and collaboratin
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/md-sujon-mia-2172a524b/" target="_blank">
+<a href="https://www.linkedin.com/in/md-sujon-2172a524b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 

@@ -9,13 +9,14 @@ Passionate Full Stack Developer focused on building scalable, secure, and modern
 # 👨‍💻 About Me
 
 * 🔭 Currently working on **JVAI**
-* 💼 Previously worked as a **Full Stack Engineer at Short Circuit Science (Remote)**
-* 🌱 Currently learning **Advanced Python, Backend Architecture & System Design**
+* 💼 Previously worked as a **Full Stack Engineer at Short Circuit Science-UK (Remote)**
+* 🌱 Currently learning **Advanced Python, ASP.NET, Backend Architecture & System Design**
 * 💻 Experienced with **MERN Stack**, **Django**, and **Next.js**
 * 🚀 Exploring **CI/CD**, **Docker**, and **Cloud Deployment**
 * 👯 Looking to collaborate on **Open Source Projects**
 * 💡 Interested in **Frontend & Backend Development**
 * ⚡ Quick learner who enjoys building scalable applications
+
 
 ---
 
